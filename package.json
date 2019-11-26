@@ -1,0 +1,8 @@
+{
+    "author": "omar htiwech",
+    "description": "site de vente",
+    "dependencies": {
+        "gulp": "4.0.2",
+        "laravel-elixir": "6.0.0-18"
+    }
+}
